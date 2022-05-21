@@ -1,0 +1,33 @@
+  /********TAG SELECTORS********/
+a:hover {
+  background-color: orange;
+}
+
+  body {
+     background-color: #B4FF9F;
+
+  }
+
+  hr {
+    border-color: white;
+    border-style: none;
+    height: 1%;
+  }
+
+
+  h3 {
+    background-color: #66BFBF;
+  }
+
+
+  img {
+    height: 150px;
+  }
+
+
+
+/********CLASS SELECTORS********/
+
+.mybgtext1 {
+  background-color: #B4FF9F;
+}
